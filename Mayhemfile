@@ -3,3 +3,4 @@ target: mbld
 
 cmds:
   - cmd: /install/bin/mbld -b binary @@
+    filepath: /test.myr

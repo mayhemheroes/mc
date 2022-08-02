@@ -1,6 +1,5 @@
-project: rnshah9/mayhem-mc
+project: mc
 target: mbld
 
 cmds:
-  - cmd: /usr/local/bin/mbld -b binary @@
-    filepath: /test.myr
+  - cmd: /install/bin/mbld -b binary @@
